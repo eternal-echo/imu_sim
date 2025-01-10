@@ -1,0 +1,36 @@
+# Jupyter core packages
+jupyter
+jupyterlab
+notebook
+nbconvert
+
+# Kernel and dependencies
+ipykernel
+ipython
+matplotlib-inline
+
+# Additional Jupyter tools
+jupyter-client
+jupyter-console
+jupyter-core
+
+# For exporting notebooks
+nbformat
+nbclient
+pandocfilters
+pygments
+jinja2
+traitlets
+mistune>=2.0  # For compatibility with nbconvert
+beautifulsoup4
+bleach
+packaging
+markupsafe
+jupyterlab-pygments
+
+
+# Visualization libraries
+matplotlib
+seaborn
+numpy
+pandas
