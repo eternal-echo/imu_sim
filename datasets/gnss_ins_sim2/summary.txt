@@ -1,0 +1,20 @@
+
+------------------------------------------------------------
+Sample frequency of IMU: [fs] = 100.0 Hz
+Reference frame: 1
+Simulation time duration: 60.0 s
+Simulation runs: 1
+
+------------------------------------------------------------
+Simulation results are saved to /home/henry/Workspace/capsule/localization/eskf-imu-mag/data/my_datasets/datasets/gnss_ins_sim2
+The following results are saved:
+	time: sample time
+	ref_pos: true position in the local NED frame
+	ref_vel: true vel in the NED frame
+	ref_att_euler: true attitude (Euler angles, ZYX)
+	ref_accel: true accel in the body frame
+	ref_gyro: true angular velocity in the body frame
+	accel: accel measurements
+	gyro: gyro measurements
+	ref_att_quat: true attitude (quaternion)
+
